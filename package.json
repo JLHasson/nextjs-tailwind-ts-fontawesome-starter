@@ -8,6 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-common-types": "^0.2.36",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@types/react-fontawesome": "^1.6.5",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
